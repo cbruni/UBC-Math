@@ -18,9 +18,7 @@
 	<hr />
 	<h1> Welcome Page Layout v1.0</h1>
 	
-	<div id="welcome">
-	
-	</div>
+<%-- 	<jsp:forward page="welcome_new.jsp"></jsp:forward> --%>
 	
 	</body>
 	</html>

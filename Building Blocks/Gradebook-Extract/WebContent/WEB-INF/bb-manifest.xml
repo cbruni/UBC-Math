@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<plugin>
-		<name value="A-Gradebook Test" />
+		<name value="AAA" />
 		<description
 			value="description" />
 		<handle value="gradebook" />
@@ -10,7 +10,7 @@
 			<bbversion value="9.0" />
 		</requires>
 		<vendor>
-			<id value="bb" />
+			<id value="b" />
 			<name value="Sebastian Valdivia" />
 			<url value="http://www.edugarage.com/" />
 			<description value="description" />
@@ -19,13 +19,13 @@
 		</http-actions>
 		<application-defs>
 			<application handle="gradebook" is-course-tool="true"
-				is-sys-tool="false" type="course" use-ssl="false" name="A-Gradebook Test" can-allow-guest="false" small-icon="" large-icon="">
+				is-sys-tool="false" type="course" use-ssl="false" name="AAA" can-allow-guest="false" small-icon="" large-icon="">
 				<description>Description</description>
 				<links>
 					<link>
 						<type value="tool" />
-						<name value="A-Gradebook Test" />
-						<url value="/jsp/index.jsp" />
+						<name value="AAA" />
+						<url value="/jsp/welcome-new.jsp" />
 						<description value="description" />
 						<icons>
 							<listitem value="images/null.gif" />
